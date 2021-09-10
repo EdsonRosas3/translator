@@ -66,7 +66,6 @@ public class FileService {
 
         for (int i = 0; i < cantidad; i++) {
             int contador = 0;
-//          resultado += palabras[i];
             String palabra = palabras[i];
 
             for (int j = 0; j < cantidad; j++) {
